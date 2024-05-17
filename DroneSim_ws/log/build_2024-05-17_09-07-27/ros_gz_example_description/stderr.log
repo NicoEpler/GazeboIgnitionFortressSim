@@ -1,0 +1,7 @@
+[0mCMake Error: The current CMakeCache.txt directory /home/ross/Desktop/GazeboIgnitionFortressSim/DroneSim_ws/build/ros_gz_example_description/CMakeCache.txt is different than the directory /home/ross/DroneSim_ws/build/ros_gz_example_description where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+[31mCMake Error at cmake_install.cmake:50 (file):
+  file INSTALL cannot find
+  "/home/ross/DroneSim_ws/build/ros_gz_example_description/ament_cmake_environment_hooks/ros_gz_example_description.dsv":
+  No such file or directory.
+
+[0m
