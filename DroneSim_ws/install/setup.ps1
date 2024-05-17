@@ -24,6 +24,7 @@ function _colcon_prefix_chain_powershell_source_script {
 # source chained prefixes
 _colcon_prefix_chain_powershell_source_script "/opt/ros/humble\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/ross/esl2024-main/install\local_setup.ps1"
+_colcon_prefix_chain_powershell_source_script "/home/ross/DroneSim_ws/install\local_setup.ps1"
 _colcon_prefix_chain_powershell_source_script "/home/ross/aerostack2_ws/install\local_setup.ps1"
 
 # source this prefix
